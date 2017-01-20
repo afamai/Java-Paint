@@ -165,7 +165,7 @@ public class MenuBar extends JMenuBar
             //open about menu if user clicks "About"
             if (event.getSource() == aboutMenu)
             {
-                String text = "Creator: Alpha Mai\nLast Modified Date: May 24, 2015\nDescription: This program allows the user, which is you, to draw and create\n"+
+                String text = "Creator: Alpha Mai\nLast Modified Date: May 24, 2016\nDescription: This program allows the user, which is you, to draw and create\n"+
                     "             anything you like with the tools my program provides you with!";
                 JOptionPane.showMessageDialog( null, text, "About", JOptionPane.INFORMATION_MESSAGE );
             }
